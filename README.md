@@ -23,11 +23,10 @@ I'm a **Frontend Developer** passionate about creating modern, responsive, and u
 I enjoy turning ideas into real-world products using **React.js, JavaScript, Supabase, Tailwind CSS, and modern web technologies**.
 
 * 🔭 Currently building **React + Supabase applications**
-* 🌱 Continuously learning **advanced React, backend integration & system design**
-* 💻 Interested in **Frontend Development & Full-Stack Development**
-* 🛒 Experienced in building **e-commerce platforms**
-* 🎓 Building **education/course platforms**
-* ⚡ I enjoy solving problems by building practical projects
+* 🌱 Continuously learning **advanced React, backend integration & full-stack development**
+* 💻 Interested in **Frontend & Full-Stack Development**
+* 🎨 Passionate about creating clean and responsive interfaces
+* 🚀 Enjoy building practical projects and solving real-world problems
 * 📍 Based in **Mumbai, India**
 
 ---
@@ -71,42 +70,22 @@ I enjoy turning ideas into real-world products using **React.js, JavaScript, Sup
 
 ## 🚀 Featured Projects
 
-### 🍬 Muh Meetha — Mithai E-Commerce
+### 🎓 Ashish Tutorials — Online Education Platform
 
-A modern Indian sweets e-commerce platform built with React and Supabase.
+An online education and course platform designed for students to discover, purchase, and access educational courses.
 
 **Features:**
-
-* 🛒 Shopping cart
-* 🔐 Authentication
-* 📦 Product variants & weight-based pricing
-* 💳 Order management
-* 👨‍💼 Admin dashboard
-* 📊 Order & inventory management
-* 🖼️ Product image management
-* 📱 Responsive UI
-
-**Tech:** React.js • Supabase • PostgreSQL • Tailwind CSS
-
-🔗 **[View Project](YOUR_MUH_MEETHA_REPOSITORY_URL)**
-
----
-
-### 🎓 Ashish Tutorials — Online Course Platform
-
-An online education platform designed for students to purchase and access courses.
-
-**Planned Features:**
 
 * 🎓 Course marketplace
 * 🔐 Student authentication
 * 📚 Course player
-* 📝 Lessons & assignments
-* 📄 PDF/notes support
-* 🎟️ Course codes
+* 📂 Course folders & lessons
+* 📝 Assignments
+* 📄 Notes & PDF content
+* 🎟️ Course access codes
 * 📊 Student dashboard
 * 👨‍💼 Admin CMS
-* ⚙️ Editable website content
+* ⚙️ Editable website content and settings
 
 **Tech:** React.js • Supabase • PostgreSQL • Tailwind CSS
 
@@ -114,19 +93,21 @@ An online education platform designed for students to purchase and access course
 
 ---
 
-### 🤝 SaathiCare
+### 💻 Amandeep Commerce Classes
 
-A social-impact project focused on helping elderly people manage daily life when their children live in another city.
+A web development project focused on creating a modern, responsive, and user-friendly digital experience.
 
-**Focus Areas:**
+**Focus:**
 
-* 👴 Elderly support
-* 🏠 Daily-life assistance
-* 📞 Communication
-* ❤️ Social connection
-* 🌍 Community impact
+* 🎨 Modern UI
+* 📱 Responsive design
+* ⚛️ React-based development
+* 🚀 Performance-focused frontend
+* 🧩 Reusable components
 
-🔗 **[View Project](YOUR_SAATHICARE_REPOSITORY_URL)**
+**Tech:** React.js • JavaScript • CSS • Vite
+
+🔗 **[View Project](YOUR_AMANDEEP_REPOSITORY_URL)**
 
 ---
 
@@ -163,29 +144,29 @@ A social-impact project focused on helping elderly people manage daily life when
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🎯 Currently Working On
 
-```text
-Frontend Development       ████████████████████░░  90%
-React.js                   ███████████████████░░░  85%
-Supabase                   █████████████████░░░░░  80%
-Responsive UI              ████████████████████░░  90%
-Backend Integration        ████████████████░░░░░░  75%
-Full-Stack Development     █████████████░░░░░░░░░  65%
-```
+* ⚛️ Building React.js applications
+* 🗄️ Working with Supabase & PostgreSQL
+* 🔐 Authentication & authorization
+* 🏗️ Improving application architecture
+* 🎨 Creating modern responsive interfaces
+* 🚀 Learning production deployment
+* 💳 Exploring secure payment integrations
+* 📊 Building admin dashboards and CMS systems
 
 ---
 
 ## 🌱 Currently Learning
 
-* ⚛️ Advanced React.js
-* 🗄️ Supabase & PostgreSQL
-* 🔐 Authentication & authorization
-* 🏗️ Scalable application architecture
-* 🚀 Production deployment
-* 💳 Secure payment integration
-* 📊 Admin dashboards & CMS
-* 🔧 Full-stack development
+* Advanced React.js
+* Supabase & PostgreSQL
+* Authentication & authorization
+* Full-stack development
+* Scalable application architecture
+* Secure payment integration
+* Production deployment
+* Modern UI/UX development
 
 ---
 
@@ -223,9 +204,9 @@ I'm interested in opportunities where I can:
 
 * 💻 Build real-world web applications
 * ⚛️ Work with React.js
-* 🗄️ Work with modern databases/backend services
+* 🗄️ Work with modern databases and backend services
 * 🎨 Create great user experiences
-* 🚀 Learn from experienced developers
+* 🚀 Learn and grow as a developer
 * 🤝 Contribute to meaningful projects
 
 ---
